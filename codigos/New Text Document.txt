@@ -1,0 +1,3 @@
+if((count>1) & (count<16))
+        c=16-count;
+  plaintext=padarray(plain,[0,c],0,'post');
